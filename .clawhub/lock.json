@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "skills": {
+    "self-improving": {
+      "version": "1.2.16",
+      "installedAt": 1773400324778
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1773400385162
+    },
+    "meta-ads-manager": {
+      "version": "1.0.0",
+      "installedAt": 1773400444534
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773400606545
+    },
+    "ontology": {
+      "version": "1.0.4",
+      "installedAt": 1773400616754
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773400636141
+    },
+    "humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1773400645839
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1773400660947
+    },
+    "auto-updater": {
+      "version": "1.0.0",
+      "installedAt": 1773400674748
+    },
+    "openclaw-youtube-transcript": {
+      "version": "1.0.1",
+      "installedAt": 1773400696616
+    },
+    "elite-longterm-memory": {
+      "version": "1.2.3",
+      "installedAt": 1773400728219
+    },
+    "google-ads-api": {
+      "version": "1.0.5",
+      "installedAt": 1773400754650
+    },
+    "shopify-admin-api": {
+      "version": "1.0.0",
+      "installedAt": 1773400770543
+    },
+    "browser-use": {
+      "version": "1.0.2",
+      "installedAt": 1773404072686
+    },
+    "shopify": {
+      "version": "1.0.1",
+      "installedAt": 1773405600361
+    },
+    "clawpify": {
+      "version": "0.1.0",
+      "installedAt": 1773405613797
+    },
+    "openclaw-commerce-shopify": {
+      "version": "1.0.4",
+      "installedAt": 1773405631598
+    },
+    "wooclaw-lite": {
+      "version": "1.0.1",
+      "installedAt": 1773405645968
+    },
+    "seo": {
+      "version": "1.0.3",
+      "installedAt": 1773405656345
+    },
+    "seo-optimizer": {
+      "version": "0.1.0",
+      "installedAt": 1773405667659
+    },
+    "website-seo": {
+      "version": "1.0.0",
+      "installedAt": 1773405678335
+    },
+    "ai-seo-writer": {
+      "version": "1.0.0",
+      "installedAt": 1773405705960
+    },
+    "web": {
+      "version": "1.0.0",
+      "installedAt": 1773405717864
+    },
+    "ui-ux": {
+      "version": "1.0.0",
+      "installedAt": 1773405753359
+    },
+    "web-deploy-github": {
+      "version": "1.0.0",
+      "installedAt": 1773405772456
+    },
+    "ecommerce": {
+      "version": "1.0.0",
+      "installedAt": 1773405780825
+    },
+    "google-analytics": {
+      "version": "1.0.10",
+      "installedAt": 1773407938211
+    },
+    "ui-ux-design": {
+      "version": "1.0.0",
+      "installedAt": 1773407955912
+    },
+    "superdesign": {
+      "version": "1.0.0",
+      "installedAt": 1773407977047
+    },
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1773407996887
+    },
+    "openviking": {
+      "version": "1.0.3",
+      "installedAt": 1773408167232
+    },
+    "screenshot": {
+      "version": "1.0.1",
+      "installedAt": 1773409395089
+    },
+    "webpage-screenshot": {
+      "version": "1.0.0",
+      "installedAt": 1773409405677
+    }
+  }
+}
